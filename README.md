@@ -2,6 +2,9 @@
 
 # Sentiment Analysis on IMDB Reviews with Label Noise Robustness
 
+
+###### Not completely written by me! cool emojis and clean formatting was done by AI assistance!
+
 [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/your-username/your-notebook-name)
 
 A transformer-based approach for sentiment analysis with experiments in handling label noise.
